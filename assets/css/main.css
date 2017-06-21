@@ -110,6 +110,7 @@
 		animation-duration: 3s;
 	}
 
+
 	@media screen and (max-width: 1280px) {
 
 		.container.\31 25\25 {
@@ -2359,6 +2360,7 @@ height: 100%;
 		padding: 0 20px;
 		margin-top: 200px;
 	}
+
 	.carousel-caption h1,
 	.carousel-caption .lead {
 		margin: 0;
@@ -2979,6 +2981,12 @@ color:#fff;
 			position: absolute;
 			top: 0;
 		}
+		#ill-icon{
+			text-transform: none;
+		}
+		#white-text{
+			color: #fff;
+		}
 		#header red_header {
 			color: red;
 		}
@@ -3056,8 +3064,9 @@ color:#fff;
 		}
 
 			#header.alt h1 {
-				color: #1075ff; /* possible blue color: #1075ff; possible red color: #ff1010 */
+				color: #f30000; /* possible blue color: #1075ff; possible red color: #ff1010 */
 				left: 2.5em;
+				font-weight: 600;
 				top: 2em;
 			}
 
