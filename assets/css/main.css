@@ -3126,6 +3126,8 @@ color:#fff;
 
 			.navPanelToggle {
 				display: block;
+				width: 85px;
+				height: 65px;
 			}
 
 		}
